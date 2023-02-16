@@ -6,7 +6,7 @@ Este é um aplicativo simples de lista de compras que permite adicionar itens a 
 
 Como começar
 
-Para começar a usar o aplicativo, basta clonar o repositório e instalar as dependências usando "npm install". Em seguida, execute o aplicativo usando npm start.
+Para começar a usar o aplicativo, basta clonar o repositório e instalar as dependências(react, react-dom, react-script, bootstrap) usando "npm install". Em seguida, execute o aplicativo usando npm start.
 
 Uso
 
